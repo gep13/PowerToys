@@ -11,7 +11,7 @@ Microsoft PowerToys is a set of utilities for power users to tune and streamline
 ## Installing and running Microsoft PowerToys 0.16
  👉 **Note:** Microsoft PowerToys requires Windows 10 1803 (build 17134) or later.
 
-### Via Github with MSI [Recommended]
+### Via GitHub with MSI [Recommended]
 
 Install from the [Microsoft PowerToys GitHub releases page][github-release-link]. Click on `Assets` to show the files available in the release and then click on `PowerToysSetup-0.16.0-x64.msi` to download the PowerToys installer.
 
